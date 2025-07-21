@@ -24,8 +24,8 @@ A simple project created to practice managing state with `useReducer`.
 # To run:
 
 ```bash
-git clone https://github.com/your-username/bank-account-app.git
-cd bank-account-app
+git clone https://github.com/KucielKrzysztof/useReducer-Bank-Account.git
+ cd useReducer-Bank-Account
 
 npm i
 npm run dev
